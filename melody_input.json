@@ -1,0 +1,46 @@
+{
+  "piece_name": "",
+  "rhythm": "3/4",
+  "voices": {
+    "1": [
+      [
+        "c1",
+        "quarter"
+      ],
+      [
+        "c1",
+        "quarter"
+      ],
+      [
+        "chord",
+        3
+      ],
+      [
+        "g1",
+        "eighth"
+      ],
+      [
+        "f1",
+        "eighth",
+        true,
+        [
+          3,
+          3
+        ]
+      ],
+      [
+        "chord",
+        [
+          1,
+          2
+        ]
+      ],
+      [
+        "c#1",
+        "half",
+        true,
+        null
+      ]
+    ]
+  }
+}
