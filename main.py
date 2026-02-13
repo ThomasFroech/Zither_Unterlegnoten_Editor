@@ -49,7 +49,7 @@ NOTE_ROTATION_DEG = 90
 CHORD_WITH_DOT_EXTRA_OFFSET_MM = 3.0
 
 INPUT_MELODY_FILE = Path("melody_input.json")
-OUTPUT_PDF_FILE = "unterlegeblatt.pdf"
+OUTPUT_PDF_FILE = "ouput.pdf"
 TITLE_FONT_NAME = "Times-Bold"
 TITLE_FONT_SIZE = 22
 DATE_FONT_SIZE = 9
