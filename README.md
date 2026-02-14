@@ -5,7 +5,7 @@
 Ein simples Desktop-Tool zur Erstellung druckbarer Zither-Unterlegeblätter als PDF.
 
 Die Noten werden in einer GUI Note für Note eingegeben (Noten, Pausen (Experiementell), punktierte Noten, Akkorde) und anschließend direkt als PDF exportiert.
-Die unterlageblätter sind, wenn in DIN A4 format ausgedruckt direkt mit einer 6/25 Zither in Standardstimmung spielbar. 
+Die Unterlageblätter sind, wenn in DIN A4 format ausgedruckt direkt mit einer 6/25 Zither in Standardstimmung spielbar. 
 
 Disclaimer: Dieses Projekt wurde nur zum Spaß und zum größten Teil mit der Hilfe von KI erstellt und ist nicht für kommerzielle Zwecke geeignet!
 
